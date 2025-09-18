@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 
 }
 
@@ -40,6 +41,7 @@ body{
     list-style: none;
     gap: 3rem;
     justify-content: center;
+   
 }
 
 
